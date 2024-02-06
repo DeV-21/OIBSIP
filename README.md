@@ -1,2 +1,4 @@
 # OIBSIP
-Explore Python code for various Data Science tasks completed during an internship. Includes Iris Flower Classification, Unemployment Analysis, Email Spam Detection, and Sales Prediction. Each task is organized into separate directories for easy navigation and reference.
+## Explore Python code for various Data Science tasks completed during an internship. 
+### Includes Iris Flower Classification, Unemployment Analysis, Email Spam Detection, and Sales Prediction. 
+#### Each task is organized into separate directories for easy navigation and reference.
