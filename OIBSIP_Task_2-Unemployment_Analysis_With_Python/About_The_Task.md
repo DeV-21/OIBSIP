@@ -17,7 +17,7 @@ can be a good data science project.
 - Programming Language: Python
 
 ## `Links`
-- [GitHub Repository]([https://github.com/DeV-21/OIBSIP/blob/main/OIBSIP_Task_2-Iris_Flower_Classification/Iris_Flower_Classification.ipynb](https://github.com/DeV-21/OIBSIP/blob/main/OIBSIP_Task_2-Unemployment_Analysis_With_Python/Unemployment_Analysis_With_Python.ipynb)) - Repository containing the notebook/code for this task.
+- [GitHub Repository](https://github.com/DeV-21/OIBSIP/blob/main/OIBSIP_Task_2-Unemployment_Analysis_With_Python/Unemployment_Analysis_With_Python.ipynb) - Repository containing the notebook/code for this task.
 - [LinkedIn Post](link_to_linkedin_post) - LinkedIn post announcing completion of this task.
 
 
