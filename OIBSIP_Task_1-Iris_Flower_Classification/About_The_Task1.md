@@ -19,6 +19,6 @@ Learning.
 
 ## `Links`
 - [GitHub Repository](https://github.com/DeV-21/OIBSIP/blob/main/OIBSIP_Task_1-Iris_Flower_Classification/Iris_Flower_Classification.ipynb) - Repository containing the notebook/code for this task.
-- [LinkedIn Post](link_to_linkedin_post) - LinkedIn post announcing completion of this task.
+- [LinkedIn Post](https://www.linkedin.com/posts/devansh-mahoday_datascience-irisflowerclassification-machinelearning-activity-7162068932332404736--Hba?utm_source=share&utm_medium=member_desktop) - LinkedIn post announcing completion of this task.
 
 
