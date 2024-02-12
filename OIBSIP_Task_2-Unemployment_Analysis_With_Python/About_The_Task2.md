@@ -18,6 +18,6 @@ can be a good data science project.
 
 ## `Links`
 - [GitHub Repository](https://github.com/DeV-21/OIBSIP/blob/main/OIBSIP_Task_2-Unemployment_Analysis_With_Python/Unemployment_Analysis_With_Python.ipynb) - Repository containing the notebook/code for this task.
-- [LinkedIn Post](link_to_linkedin_post) - LinkedIn post announcing completion of this task.
+- [LinkedIn Post](https://www.linkedin.com/posts/devansh-mahoday_datascience-unemploymentanalysis-oasisinfobyte-activity-7162070042052812801-Je08?utm_source=share&utm_medium=member_desktop) - LinkedIn post announcing completion of this task.
 
 
