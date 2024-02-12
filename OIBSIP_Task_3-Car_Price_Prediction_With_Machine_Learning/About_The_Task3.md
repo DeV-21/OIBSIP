@@ -18,6 +18,6 @@ how to train a car price prediction model then this project is for you.
 
 ## `Links`
 - [GitHub Repository](https://github.com/DeV-21/OIBSIP/blob/main/OIBSIP_Task_3-Car_Price_Prediction_With_Machine_Learning/Car_Price_Prediction_With_Machine_Learning.ipynb) - Repository containing the notebook/code for this task.
-- [LinkedIn Post](link_to_linkedin_post) - LinkedIn post announcing completion of this task.
+- [LinkedIn Post](https://www.linkedin.com/posts/devansh-mahoday_datascience-machinelearning-carpriceprediction-activity-7162070418646810624-BWP7?utm_source=share&utm_medium=member_desktop) - LinkedIn post announcing completion of this task.
 
 
