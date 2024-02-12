@@ -21,7 +21,7 @@ product. So let’s start the task of sales prediction with machine learning usi
 
 ## `Links`
 - [GitHub Repository](https://github.com/DeV-21/OIBSIP/blob/main/OIBSIP_Task_5-Sales_Prediction_Using_Python/Sales_Prediction_Using_Python.ipynb) - Repository containing the notebook/code for this task.
-- [LinkedIn Post](link_to_linkedin_post) - LinkedIn post announcing completion of this task.
+- [LinkedIn Post](https://www.linkedin.com/posts/devansh-mahoday_datascience-machinelearning-salesprediction-activity-7162071401963667457-SG-o?utm_source=share&utm_medium=member_desktop) - LinkedIn post announcing completion of this task.
 
 
 
