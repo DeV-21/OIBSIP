@@ -18,6 +18,6 @@ In this Project, use Python to build an email spam detector. Then, use machine l
 
 ## `Links`
 - [GitHub Repository](https://github.com/DeV-21/OIBSIP/blob/main/OIBSIP_Task_4-Email_Spam_Detection_With_Machine_Learning/Email_Spam_Detection_With_Machine_Learning.ipynb) - Repository containing the notebook/code for this task.
-- [LinkedIn Post](link_to_linkedin_post) - LinkedIn post announcing completion of this task.
+- [LinkedIn Post](https://www.linkedin.com/posts/devansh-mahoday_datascience-machinelearning-emailspamdetection-activity-7162071159155421184-_37w?utm_source=share&utm_medium=member_desktop) - LinkedIn post announcing completion of this task.
 
 
